@@ -1,0 +1,27 @@
+.chart {
+    background: #fff;
+    font: 12px Arial;
+    shape-rendering: crispEdges;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #aaa;
+    shape-rendering: crispEdges;
+}
+.chart text {
+    font: 12px Arial;
+    fill: #000;
+}
+.chart .axis text {
+    fill: #aaa;
+}
+
+.chart legend text {
+    font: 12px Arial;
+    fill: #fff;
+}   
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
